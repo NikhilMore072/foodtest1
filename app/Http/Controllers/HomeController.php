@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Auth;
-use App\User;
+use App\Models\User;
 use App\Clinic_location;
 use App\Product_name;
 use App\ClinicOrders;
