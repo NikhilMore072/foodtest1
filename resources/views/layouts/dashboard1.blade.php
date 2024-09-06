@@ -12,7 +12,7 @@
           <div class="card info-card sales-card">
 
             <div class="card-body">
-              <h5 class="card-title">Total Clinic Users</h5>
+              <h5 class="card-title">Total Branch Users</h5>
 
               <div class="d-flex align-items-center">
                 <div class="card-icon rounded-circle d-flex align-items-center justify-content-center">
@@ -30,7 +30,7 @@
           <div class="card info-card revenue-card">
 
             <div class="card-body">
-              <h5 class="card-title">Total Clinic Location</h5>
+              <h5 class="card-title">Total Branch Location</h5>
 
               <div class="d-flex align-items-center">
                 <div class="card-icon rounded-circle d-flex align-items-center justify-content-center">
@@ -55,7 +55,7 @@
                   <i class="bi bi-basket"></i>
                 </div>
                 <div class="ps-3" style="display: flex">
-                  <a href="{{url('/all_report')}}"><h6>All Clinic Stock Report</h6></a>
+                  <a href="{{url('/all_report')}}"><h6>All Branch Stock Report</h6></a>
                 </div>
               </div>
             </div>

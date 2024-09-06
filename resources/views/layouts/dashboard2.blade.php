@@ -99,7 +99,7 @@
         <div class="col-xxl-3 col-md-3">
           <div class="card info-card revenue-card">
             <div class="card-body">
-              <h5 class="card-title">Clinic Users Branch</h5>
+              <h5 class="card-title">Branch Users Branch</h5>
               <div class="d-flex align-items-center">
                 <div class="card-icon rounded-circle d-flex align-items-center justify-content-center">
                   <i class="bi bi-people"></i>

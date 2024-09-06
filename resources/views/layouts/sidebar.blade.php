@@ -19,12 +19,12 @@
 
         <li>
           <a href="{{url('/clinic_details')}}">
-            <i class="bi bi-circle"></i><span>All Clinic Details</span>
+            <i class="bi bi-circle"></i><span>All Branch Details</span>
           </a>
         </li>
         <li>
           <a href="{{url('/clinic')}}">
-            <i class="bi bi-circle"></i><span>Add Clinic Location</span>
+            <i class="bi bi-circle"></i><span>Add Branch Location</span>
           </a>
         </li>
       </ul>
